@@ -121,6 +121,8 @@ This project was completed as part of my Power BI learning journey and significa
 
 ## 📷 Dashboard Preview
 
+The dashboard consists of three report pages covering loan overview, applicant demographics, and financial risk analysis.
+
 <img width="1332" height="737" alt="image" src="https://github.com/user-attachments/assets/1f14265a-a9b6-413c-9fee-13ca0c45fc8f" />
 <img width="1331" height="745" alt="image" src="https://github.com/user-attachments/assets/d867924e-d301-48a9-9b34-d3869761b1f1" />
 <img width="1317" height="741" alt="image" src="https://github.com/user-attachments/assets/87a08b25-e6a0-4aa9-a138-26ed96430e7a" />
