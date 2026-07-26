@@ -8,9 +8,7 @@ Welcome to my Power BI portfolio!
 
 This is a guided Power BI project that I completed while learning Power BI and DAX.
 
-The goal of this project was to practice data transformation, DAX, dashboard creation, and data validation using a loan dataset.
-
-This project is part of my journey to become a Data Analyst.
+The project focuses on analyzing a loan dataset using Power Query, DAX, and interactive dashboards. It also includes data validation to verify that the dashboard results match the source data.
 
 ---
 
@@ -62,8 +60,6 @@ Through this project I practiced:
 - Creating calculated columns
 - Building interactive dashboards
 - Validating dashboard results using Excel Pivot Tables
-
-This is a guided learning project, and I plan to rebuild it independently as I continue improving my Power BI and DAX skills.
 
 ---
 
