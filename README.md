@@ -4,11 +4,13 @@ Welcome to my Power BI portfolio!
 
 # Loan Default Risk Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+## 📌 About the Project
 
-This is a guided Power BI project that I completed while learning Power BI and DAX. The objective was to analyze a loan dataset, build interactive dashboards, create DAX measures, and validate the results using Excel and Power BI.
+This is a guided Power BI project that I completed while learning Power BI and DAX.
 
-This project helped me understand how Power BI is used for reporting, data analysis, and dashboard development.
+The goal of this project was to practice data transformation, DAX, dashboard creation, and data validation using a loan dataset.
+
+This project is part of my journey to become a Data Analyst.
 
 ---
 
@@ -17,127 +19,59 @@ This project helped me understand how Power BI is used for reporting, data analy
 - Power BI Desktop
 - Power Query
 - DAX
-- Microsoft Excel
 - SQL Server
+- Microsoft Excel
 
 ---
 
-## 📊 Dashboard Pages
+## 📊 Skills Practiced
 
-### 1. Loan Default & Overview
-- Loan Amount by Purpose
-- Default Rate by Employment Type
-- Average Loan by Age Group
-- Average Income by Employment Type
-- Default Rate by Year
-
-### 2. Applicant Demographics & Financial Profile
-- Median Loan Amount by Credit Score
-- Average Loan Amount (High Credit)
-- Total Loan by Credit Score Category
-- Loans by Education Type
-- Loan Distribution by Mortgage & Dependents
-
-### 3. Financial Risk Matrix
-- Year-over-Year Loan Amount Change
-- Year-over-Year Default Loan Change
-- Year-to-Date Loan Amount
-- Decomposition Tree Analysis
+- Data Cleaning
+- Data Transformation
+- DAX Measures
+- Calculated Columns
+- Time Intelligence
+- Dashboard Design
+- Data Validation
 
 ---
 
-## 📈 DAX Concepts Practiced
+## 📈 Dashboard Preview
 
-- SUMX
-- FILTER
-- CALCULATE
-- AVERAGEX
-- MEDIANX
-- COUNTROWS
-- DIVIDE
-- VAR
-- DATESYTD
-- IF
-- SWITCH
-- ALLEXCEPT
+### Loan Default & Overview
 
----
+<img width="1332" height="737" alt="image" src="https://github.com/user-attachments/assets/1f14265a-a9b6-413c-9fee-13ca0c45fc8f" />
 
-## 🧹 Data Preparation
+### Applicant Demographics & Financial Profile
 
-- Imported dataset into SQL Server
-- Connected SQL Server to Power BI
-- Reviewed data types
-- Checked column quality
-- Checked column distribution
-- Checked column profiling
-- Created calculated columns:
-  - Year
-  - Age Groups
-  - Credit Score Bins
-  - Income Bracket
+<img width="1331" height="745" alt="image" src="https://github.com/user-attachments/assets/d867924e-d301-48a9-9b34-d3869761b1f1" />
 
----
+### Financial Risk Matrix
 
-## ✅ Data Validation
-
-To ensure accuracy, every important visual was validated by:
-
-- Table Visuals in Power BI
-- Excel Pivot Tables
-- Source data verification
-- Median validation using indexing
-
-This helped verify that the dashboard calculations matched the underlying data.
-
----
-
-## 📌 Key Insights
-
-- Loan amounts are distributed across multiple loan purposes with relatively similar totals.
-- Default rates vary across employment types.
-- Loan amounts differ across credit score categories.
-- Applicant demographics such as age, education, and marital status influence loan distribution.
-- Year-over-Year and Year-to-Date measures help monitor lending trends over time.
+<img width="1317" height="741" alt="image" src="https://github.com/user-attachments/assets/87a08b25-e6a0-4aa9-a138-26ed96430e7a" />
 
 ---
 
 ## 📚 What I Learned
 
-Through this project I learned:
+Through this project I practiced:
 
-- Importing data from SQL Server into Power BI
-- Data transformation using Power Query
+- Importing data into Power BI
+- Transforming data using Power Query
+- Writing basic DAX measures
 - Creating calculated columns
-- Writing DAX measures
-- Time Intelligence functions
 - Building interactive dashboards
-- Data validation techniques
-- Dashboard formatting and visualization best practices
+- Validating dashboard results using Excel Pivot Tables
 
-This project was completed as part of my Power BI learning journey and significantly improved my understanding of DAX and dashboard development.
-
----
-
-## 📷 Dashboard Preview
-
-The dashboard consists of three report pages covering loan overview, applicant demographics, and financial risk analysis.
-
-<img width="1332" height="737" alt="image" src="https://github.com/user-attachments/assets/1f14265a-a9b6-413c-9fee-13ca0c45fc8f" />
-<img width="1331" height="745" alt="image" src="https://github.com/user-attachments/assets/d867924e-d301-48a9-9b34-d3869761b1f1" />
-<img width="1317" height="741" alt="image" src="https://github.com/user-attachments/assets/87a08b25-e6a0-4aa9-a138-26ed96430e7a" />
-
+This is a guided learning project, and I plan to rebuild it independently as I continue improving my Power BI and DAX skills.
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Next Steps
 
-As I continue learning Power BI, I plan to improve this project by:
+As I continue learning, I plan to:
 
-- Rebuilding it independently without referring to the course
-- Optimizing DAX measures
-- Implementing a Star Schema
-- Adding KPI Cards
-- Adding Drill-through pages
-- Adding Dynamic Titles
-- Creating more business-focused insights
+- Build Power BI projects independently
+- Improve my DAX skills
+- Learn data modeling using Star Schema
+- Create more business-focused dashboards
