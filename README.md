@@ -34,6 +34,36 @@ The project focuses on analyzing a loan dataset using Power Query, DAX, and inte
 
 ---
 
+## 📈 DAX Concepts Practiced
+
+- SUMX
+- FILTER
+- CALCULATE
+- AVERAGEX
+- MEDIANX
+- COUNTROWS
+- DIVIDE
+- VAR
+- DATESYTD
+- IF
+- SWITCH
+- ALLEXCEPT
+
+---
+
+## ✅ Data Validation
+
+To ensure accuracy, every important visual was validated by:
+
+- Table Visuals in Power BI
+- Excel Pivot Tables
+- Source data verification
+- Median validation using indexing
+
+This helped verify that the dashboard calculations matched the underlying data.
+
+---
+
 ## 📈 Dashboard Preview
 
 ### Loan Default & Overview
@@ -60,6 +90,8 @@ Through this project I practiced:
 - Creating calculated columns
 - Building interactive dashboards
 - Validating dashboard results using Excel Pivot Tables
+
+This project was completed as part of my Power BI learning journey and significantly improved my understanding of DAX and dashboard development.
 
 ---
 
