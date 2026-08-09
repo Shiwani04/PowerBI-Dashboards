@@ -63,4 +63,33 @@ and customers dragging performance down without anyone noticing?
   only 6.69% of total revenue, no risky dependency on a few big accounts
 
 - 📉 **Profit growth is starting to lag behind sales growth** — in 2017, sales
-  grew 20.36% while profit grew only 14.24%, an early signal worth
+  grew 20.36% while profit grew only 14.24%, an early signal worth monitoring
+
+---
+
+## 💡 Business Impact
+- Investigate Furniture pricing/cost structure before expanding the category
+- Study East region's practices to help improve South's margins
+- Review Sean Miller's account terms (discounting, fulfillment cost)
+- Monitor future margins closely — sales outpacing profit is an early warning sign
+
+---
+
+## 📷 Dashboard Preview
+### Sales Overview
+<img width="1340" height="751" alt="image" src="https://github.com/user-attachments/assets/dc4307bc-6205-404b-8ed9-cfcddc55c4b2" />
+
+### Product Analysis
+<img width="1340" height="742" alt="image" src="https://github.com/user-attachments/assets/1577b104-82d7-4587-a109-bdfb34005bd3" />
+
+### Regional Analysis
+<img width="1333" height="743" alt="image" src="https://github.com/user-attachments/assets/915fb153-32ea-4385-bf9a-042caa356aab" />
+
+### Customer Analysis
+<img width="1336" height="740" alt="image" src="https://github.com/user-attachments/assets/4c47ca78-3536-445c-a756-328972c24b0e" />
+
+---
+
+## 🚀 Next Steps
+- Continue building independent, business-focused Power BI projects
+- Explore Power BI Service admin features & Row-Level Security
