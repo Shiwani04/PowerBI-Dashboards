@@ -17,7 +17,9 @@ Power BI (Desktop & Service) · DAX · Power Query (M) · Data Modeling
   customer account operating at a loss.
 
 - **[Loan Default Risk Analysis](./Loan-Default-Risk-Analysis)**
-  
+  A guided project analyzing loan default risk using Power Query and DAX,
+  including time intelligence measures and rigorous validation of every
+  visual against Excel pivot tables and source data.
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/shiwani-singh-072949188/
