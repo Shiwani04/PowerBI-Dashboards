@@ -1,26 +1,43 @@
-# 📊 Power BI Dashboards Portfolio
+# 📊 Power BI & Data Analytics Portfolio
 
-Hi, I'm Shiwani — transitioning into Data Analytics, focused on Power BI,
-data modeling, and business-focused dashboard design. This repo contains
-my portfolio projects, each with a full case study, dashboard file, and
-a PDF preview.
+Hi, I'm Shiwani — transitioning into Data Analytics, with a focus on Power BI, SQL, DAX, data modelling, and business-focused dashboard design.
+
+This repository contains my learning and portfolio projects, divided into **Practiced Projects** and **Independent Projects**.
 
 ## 🛠️ Skills & Tools
-Power BI (Desktop & Service) · DAX · Power Query (M) · Data Modeling
-(Star Schema) · SQL
 
-## 📁 Projects
+- Microsoft Power BI
+- DAX
+- Power Query (M)
+- Data Modelling & Star Schema
+- SQL
+- Microsoft Excel
+- Data Cleaning & Transformation
+- Data Visualization
+- KPI & Business Analysis
 
-- **[Retail Sales Performance Dashboard](./Retail-Sales-Performance-Dashboard)**
-  Multi-page analysis of sales, profitability, regions, and customers —
-  uncovered a category with strong sales but weak margins, and a top
-  customer account operating at a loss.
+## 📚 Practiced Projects
 
-- **[Loan Default Risk Analysis](./Loan-Default-Risk-Analysis)**
-  A guided project analyzing loan default risk using Power Query and DAX,
-  including time intelligence measures and rigorous validation of every
-  visual against Excel pivot tables and source data.
+Projects completed while learning through video tutorials and guided practice. These helped me build and strengthen my understanding of Power BI, DAX, SQL, data modelling, and other analytics concepts.
+
+### Loan Default Risk Analysis
+A guided Power BI project analysing loan default risk using Power Query and DAX, including time intelligence and validation of dashboard results against Excel pivot tables and source data.
+
+[View Practiced Projects](./Practiced-Projects)
+
+## 📊 Independent Projects
+
+Projects built independently from scratch using datasets sourced from platforms such as Kaggle and Maven Analytics.
+
+For these projects, I independently worked through data preparation, analysis, calculations, dashboard development, and business insights.
+
+### Northwind Sales Performance Dashboard
+A multi-page Power BI dashboard analysing sales, customers, products, suppliers, employees, and shipping performance using the Northwind Traders dataset.
+
+[View Independent Projects](./Independent-Projects)
 
 ## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/shiwani-singh-072949188/
-Email: shivani.s1299@gmail.com
+
+**LinkedIn:** [linkedin.com/in/shiwani-singh-072949188](https://www.linkedin.com/in/shiwani-singh-072949188/)
+
+**Email:** shivani.s1299@gmail.com
