@@ -1,121 +1,200 @@
-# Northwind Sales Performance Dashboard
+# 🛒 Northwind Sales Performance Dashboard | Power BI
 
-A Power BI project built using the Northwind Traders dataset to practice data cleaning, data modelling, DAX, and business-focused dashboard development.
+## 📌 About the Project
 
-## About the Project
+An end-to-end Power BI dashboard built using the Northwind Traders dataset to analyse sales, customers, products, suppliers, employees, and shipping performance.
 
-The dashboard analyses different aspects of business performance, including:
+The project covers the full analytics workflow: data cleaning and transformation, data modelling, DAX measure development, KPI analysis, and interactive dashboard design.
 
-- Sales performance
-- Product and supplier performance
-- Customer performance
-- Employee performance
-- Shipping and delivery performance
+The original Northwind dataset contains older historical dates, which were shifted to a more recent timeline for portfolio practice. The modified dates should not be interpreted as actual historical business data.
 
-The goal of the project was to turn raw business data into an interactive dashboard and identify useful insights through KPIs, trends, comparisons, and performance metrics.
+---
 
-## Dashboard Pages
+## 🎯 Business Problem
 
-### 1. Sales Overview
-- Total Revenue
-- Total Orders
-- Average Order Value
-- Total Quantity Sold
-- Revenue trend by year
-- Revenue by category
-- Revenue by country
+How is the business performing across sales, customers, products, employees, and shipping — and where are there areas of strong or weak performance that require further attention?
 
-### 2. Product & Supplier Analysis
-- Product performance
-- Active vs discontinued products
-- Quantity sold by category
-- Top suppliers by revenue
-- Product-level performance comparison
+The dashboard was designed to answer these questions through business-focused KPIs, comparisons, trends, and performance analysis.
 
-### 3. Customer Analysis
-- Total and active customers
-- Average revenue per customer
-- Active vs inactive customer distribution
-- Customer orders by country
-- Customer performance summary
-- Monthly active customer trend
+---
 
-### 4. Employee Performance
-- Average revenue per employee
-- Revenue by employee
-- Revenue by employee title
-- Revenue vs average order value
-- Employee performance comparison
-- Revenue-to-salary analysis
+## 🛠️ Tools Used
 
-### 5. Shipping Performance
-- Total shipped orders
-- Pending shipments
-- Average freight per order
-- On-time shipment percentage
-- Late shipment percentage
-- Freight by shipper
-- Monthly on-time shipment trend
-- Shipper performance comparison
-
-## Tools & Skills Used
-
-- Microsoft Power BI
+- Microsoft Power BI Desktop
+- Power Query (M)
 - DAX
-- Power Query
 - Data Modelling
 - Star Schema
 - Microsoft Excel
-- Data Cleaning
-- Data Validation
-- KPI Analysis
+
+---
+
+## 📊 Skills Practiced
+
+- Data Cleaning & Transformation
+- Power Query
+- Star Schema Data Modelling
+- Table Relationships
+- DAX Measures
+- Filter Context
+- Time Intelligence
+- KPI Development
+- Business Analysis
 - Data Visualization
+- Interactive Dashboard Design
+- Conditional Formatting
 
-## DAX Concepts Used
+---
 
-Some of the DAX concepts used in the project include:
+## 📈 DAX Concepts Practiced
 
 - CALCULATE
 - FILTER
 - SUM
 - DIVIDE
+- DISTINCTCOUNT
 - VALUES
 - ALL
 - REMOVEFILTERS
 - RELATED
+- SELECTEDVALUE
 - RANKX
 - SWITCH
-- SELECTEDVALUE
 - Time Intelligence
 - Date Table / Calendar
 - Iterator-based calculations
 
-## Key Learning Outcomes
+---
 
-Through this project, I practiced:
+## 📑 Dashboard Pages
 
-- Transforming and preparing data using Power Query
-- Building relationships between tables
-- Working with a star-schema data model
-- Creating calculated measures using DAX
-- Understanding filter context
-- Designing KPIs for different business areas
-- Choosing visuals based on the business question
-- Creating interactive dashboards
-- Converting data into business-focused insights
+### 📊 Sales Overview
 
-## Dataset
+Provides a high-level view of overall sales performance.
 
-The project uses the Northwind Traders dataset.
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Total Quantity Sold
+- Sales trends
+- Revenue by category
+- Revenue by country
 
-The original dataset contains information related to customers, employees, products, suppliers, orders, order details, shippers, and other business entities.
+### 📦 Product & Supplier Analysis
 
-Dataset source: Kaggle - Northwind Dataset
+Focuses on product and supplier performance.
 
-## Note
+- Product performance
+- Category performance
+- Quantity sold by category
+- Supplier revenue
+- Active vs discontinued products
+- Product-level analysis
 
-The dates in the original dataset were shifted to a more recent timeline for portfolio practice. The underlying business data is from the Northwind dataset and the modified dates should not be interpreted as actual historical business data.
+### 👥 Customer Analysis
 
-## Project Status
+Analyses customer activity and revenue contribution.
 
-Completed as a self-learning and portfolio project while developing my skills in Data Analytics and Power BI.
+- Total customers
+- Active customers
+- Average revenue per customer
+- Customer orders by country
+- Customer performance
+- Monthly active customer trend
+
+### 👤 Employee Performance
+
+Evaluates employee contribution and efficiency.
+
+- Revenue by employee
+- Orders by employee
+- Average revenue per employee
+- Average order value per employee
+- Revenue by employee title
+- Revenue-to-salary analysis
+
+### 🚚 Shipping Performance
+
+Analyses shipping efficiency and delivery performance.
+
+- Total shipped orders
+- Pending shipments
+- On-time delivery %
+- Late shipment %
+- Average days to ship
+- Average freight per order
+- Freight and revenue by shipper
+- Monthly on-time shipment trend
+
+---
+
+## 🔍 Key Insights
+
+- 📈 **Sales performance varies across categories and markets** — the dashboard helps identify which categories and countries contribute most to overall revenue.
+
+- 👥 **Customer activity is not evenly distributed** — comparing customer revenue, order volume, and activity helps identify high-value and less-active customer segments.
+
+- 👤 **Employee contribution varies** — revenue, order volume, average order value, and revenue-to-salary metrics provide different perspectives on employee performance.
+
+- 📦 **Product and supplier performance differs** — comparing revenue and quantity sold helps identify products and categories contributing most to sales.
+
+- 🚚 **Shipping performance varies by shipper** — on-time delivery, shipping time, freight, and shipment volume provide a broader view of delivery performance.
+
+- 📅 **Monthly trends help identify changes in business and shipping performance over time.**
+
+---
+
+## 💡 Business Questions Explored
+
+- Which categories and countries generate the most revenue?
+- Which customers contribute the most business?
+- How does employee performance differ across revenue and order metrics?
+- Which products and suppliers contribute most to sales?
+- How efficiently are orders being shipped?
+- Which shippers handle the most business?
+- What proportion of orders are shipped on time?
+- How does shipping performance change over time?
+
+---
+
+## 📷 Dashboard Preview
+
+### Sales Overview
+
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/ccc2a57d-95f7-4950-a5d9-d6a047196ed3" />
+
+### Product & Supplier Analysis
+
+<img width="1326" height="737" alt="image" src="https://github.com/user-attachments/assets/0f0ab553-8f08-4b77-b6dd-f388059e8dff" />
+
+### Customer Analysis
+
+<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/e307bda9-96ec-418e-91f5-c0be64fffbe5" />
+
+### Employee Performance
+
+<img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/137bd11a-daa7-437f-9437-bc2983a871f2" />
+
+### Shipping Performance
+
+<img width="1332" height="738" alt="image" src="https://github.com/user-attachments/assets/fa010b2a-0b37-4531-a678-4499b97dde4c" />
+
+
+---
+
+## 🚀 Next Steps
+
+- Continue building independent, business-focused analytics projects
+- Strengthen SQL and advanced DAX skills
+- Explore Power BI Service and Row-Level Security
+- Build an end-to-end SQL + Power BI analytics project
+
+---
+
+## 📚 Dataset
+
+**Northwind Traders Dataset**
+
+The project uses the publicly available Northwind Traders dataset for learning and portfolio purposes.
+
+Dataset source: Kaggle
